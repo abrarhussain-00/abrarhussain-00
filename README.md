@@ -2,14 +2,8 @@
 <h3 align="center">Software Engineer/Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahussain887&label=Profile%20views&color=0e75b6&style=flat" alt="sahussain887" /> </p>
 
-<p align="left">Hi there! My name is Abrar and I am a full-stack developer with a background in medicine. While waiting for my results to come back from medical school, I decided to explore the world of coding, as I saw the high demand for this skill in the industry. I enrolled in an extensive full-stack developer bootcamp, where I learned how to code and solve problems using various programming languages and technologies.
-<br/>
-<br/>
-My previous medical background taught me the importance of attention to detail, which has helped me become a better problem-solver and a stronger critical thinker. I am highly motivated and passionate about learning, always willing to put in the extra effort to achieve any requirement. I am determined to succeed in software development and eager to learn as much as possible.
-<br/>
-<br/>
-Although the transition to software development was challenging at first, I am proud of the progress I have made so far, and excited about the opportunities that lie ahead in my career. With my dedication, passion, and willingness to learn, I am confident that I can achieve great things in this field. I am excited to continue growing as a developer and to contribute my skills to meaningful projects in the industry.
-Stay up to date with all my projects by continuously checking out my repos and if you ever have any questions, don't heto reach out! 🤝
+<p align="left">Full stack developer passionate about sharing knowledge and making content! Constantly pushing for imperfect perfection 😌
+Stay up to date with all my projects by continuously checking out my repos and if you ever have any questions, don't hesitate reach out! 🤝
 </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
