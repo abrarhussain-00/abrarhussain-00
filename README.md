@@ -8,9 +8,10 @@
 <a href="https://www.leetcode.com/abrarhussain_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abrarhussain_00" height="30" width="40" /></a>
 </p>
 
-<p align="left">Full stack developer passionate about sharing knowledge and making content! Constantly pushing for imperfect perfection 😌
+<p align="center">Full stack developer passionate about sharing knowledge and making content! Constantly pushing for imperfect perfection 😌
 Stay up to date with all my projects by continuously checking out my repos and if you ever have any questions, don't hesitate reach out! 🤝
 </p>
+<hr/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
