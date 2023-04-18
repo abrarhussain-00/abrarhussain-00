@@ -17,7 +17,7 @@ Stay up to date with all my projects by continuously checking out my repos and i
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🔭 I’m currently working on a mobile expense tracker app [PayCheque](https://github.com/abrarhussain-00/paycheque) | [fitnessTrackr](https://github.com/abrarhussain-00/fitnesstrackr)
+- 🔭 I’m currently working on a mobile expense tracker app [PayCheque](https://github.com/abrarhussain-00/paycheque) | [fitgenie](https://github.com/abrarhussain-00/fitgenie)
 
 - 🌱 I’m currently learning **React Native, Swift, and Stripe**
 
