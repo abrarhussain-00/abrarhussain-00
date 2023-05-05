@@ -47,7 +47,7 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 - DevOps [AWS, Bash]
 
-- Software [Postman, MySQL Workbench, VSCODE, Spring Tool Suite]
+- Software [Docker, Postman, MySQL Workbench, VSCODE, Spring Tool Suite]
 
 - Version Control [Git, GitHub, Gitlab, BitBucket]
 
