@@ -19,7 +19,7 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 - 🔭 I’m currently working on a mobile expense tracker app [PayCheque](https://github.com/abrarhussain-00/paycheque) | [ironshell](https://github.com/abrarhussain-00/ironshell)
 
-- 🌱 I’m currently learning **React Native, Swift, and Stripe**
+- 🌱 I’m currently learning **Stripe**
 
 - 👨‍💻 All of my projects are available at [abrarbiz.net](abrarbiz.net)
 
@@ -58,5 +58,5 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&locale=en" alt="abrarhussain-00" />
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhussain-00&" alt="abrarhussain-00" /></div>
- -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhussain-00&" alt="abrarhussain-00" /></div>
+ 
