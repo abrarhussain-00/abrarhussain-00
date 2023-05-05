@@ -45,7 +45,7 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 - Databases [MySQL, MongoDB, SQLite, Atlas, OracleDB]
 
-- DevOps [AWS, Kubernetes, Bash, Azure]
+- DevOps [AWS, Bash]
 
 - Software [Postman, MySQL Workbench, VSCODE, Spring Tool Suite]
 
