@@ -23,7 +23,7 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 - 👨‍💻 All of my projects are available at [abrarbiz.net](abrarbiz.net)
 
-- 📫 How to reach me **sahussain887@gmail.com**
+- 📫 How to reach me **abrarsoftwaredev@gmail.com**
 
 - ⚡ Fun fact **I never drank coffee**
 
