@@ -21,7 +21,7 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 - 🌱 I’m currently learning **Stripe**
 
-- 👨‍💻 All of my projects are available at [abrardev.com](abrardev.com)
+- 👨‍💻 All of my projects are available at [abrardev.com] <a href=(abrardev.com)/>Portfolio site/a>
 
 - 📫 How to reach me **abrarsoftwaredev@gmail.com**
 
