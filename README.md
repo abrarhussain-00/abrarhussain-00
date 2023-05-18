@@ -57,7 +57,7 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 <h3 align="center">📊 Most Used Languages:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00)](https://github.com/abrarhussain-00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00)](https://github.com/abrarhussain-00/github-readme-stats)/>
 
 
 
@@ -65,5 +65,4 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&locale=en" alt="abrarhussain-00" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhussain-00&" alt="abrarhussain-00" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00)](https://github.com/abrarhussain-00/github-readme-stats)</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhussain-00&" alt="abrarhussain-00" /></div>
