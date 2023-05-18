@@ -51,14 +51,18 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 - Version Control [Git, GitHub, Gitlab, BitBucket]
 
-- Other [Agile, Scrum, RESTful API, MVC, 
+- Other [Agile, Scrum, RESTful API, MVC]
 
 <hr/>
 
 <h3 align="center">📊 Stats:</h3>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&locale=en" alt="abrarhussain-00" />
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&locale=en" alt="abrarhussain-00" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhussain-00&" alt="abrarhussain-00" />
+  </div>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhussain-00&" alt="abrarhussain-00" /></div>
- 
- 
