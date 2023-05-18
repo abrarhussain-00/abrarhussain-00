@@ -55,7 +55,7 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 <hr/>
 
-<h3 align="center">📊 Most Used Languages:</h3>
+<h3 align="center">👨‍💻 Most Used Languages:</h3>
 
 <div align='center'>
 
