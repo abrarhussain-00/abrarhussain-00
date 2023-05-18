@@ -116,7 +116,6 @@ Stay up to date with all my projects by continuously checking out my repos and i
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&locale=en" alt="abrarhussain-00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhussain-00&" alt="abrarhussain-00" /></p> -->
-<br/>
 - Languages: [Python, Javascript, Java]
 
 - Frontend Development: [HTML, CSS, ReactJS, TypeScript, Swift, Bootstrap, Material UI, AJAX, JPA]
