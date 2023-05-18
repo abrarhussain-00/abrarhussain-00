@@ -56,11 +56,10 @@ Stay up to date with all my projects by continuously checking out my repos and i
 <hr/>
 
 <h3 align="center">📊 Most Used Languages:</h3>
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00)](https://github.com/abrarhussain-00/github-readme-stats) -->
 
+<div align='center'>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 
 
