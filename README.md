@@ -59,7 +59,8 @@ Stay up to date with all my projects by continuously checking out my repos and i
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00)](https://github.com/abrarhussain-00/github-readme-stats) -->
 
-![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
