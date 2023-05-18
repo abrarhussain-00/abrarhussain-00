@@ -30,7 +30,7 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 
 <h3 align="center">Languages and Tools:</h3>
-<div align="left">
+<div align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40">
   </a>
