@@ -116,22 +116,22 @@ Stay up to date with all my projects by continuously checking out my repos and i
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&locale=en" alt="abrarhussain-00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhussain-00&" alt="abrarhussain-00" /></p> -->
+<br/>
+- Languages: [Python, Javascript, Java]
 
-- Languages [Python, Javascript, Java]
+- Frontend Development: [HTML, CSS, ReactJS, TypeScript, Swift, Bootstrap, Material UI, AJAX, JPA]
 
-- Frontend Development [HTML, CSS, ReactJS, TypeScript, Swift, Bootstrap, Material UI, AJAX, JPA]
+- Backend Development: [NodeJS, Spring Tool Suite, Spring Security, Spring Boot, Tomcat, Apache, Dependency Injection, ExpressJS, Flask, BCrypt, JSP, JSON, NPM]
 
-- Backend Development [NodeJS, Spring Tool Suite, Spring Security, Spring Boot, Tomcat, Apache, Dependency Injection, ExpressJS, Flask, BCrypt, JSP, JSON, NPM]
+- Databases: [MySQL, MongoDB, SQLite, Atlas, OracleDB]
 
-- Databases [MySQL, MongoDB, SQLite, Atlas, OracleDB]
+- DevOps: [AWS, Bash]
 
-- DevOps [AWS, Bash]
-
-- Software [Docker, Postman, MySQL Workbench, VSCODE, Spring Tool Suite]
+- Software: [Docker, Postman, MySQL Workbench, VSCODE, Spring Tool Suite]
 
 - Version Control [Git, GitHub, Gitlab, BitBucket]
 
-- Other [Agile, Scrum, RESTful API, MVC]
+- Other: [Agile, Scrum, RESTful API, MVC]
 
 <hr/>
 
