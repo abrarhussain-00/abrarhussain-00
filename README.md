@@ -56,8 +56,10 @@ Stay up to date with all my projects by continuously checking out my repos and i
 <hr/>
 
 <h3 align="center">📊 Most Used Languages:</h3>
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00)](https://github.com/abrarhussain-00/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00)](https://github.com/abrarhussain-00/github-readme-stats)
+![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&theme=radical)
 
 
 
