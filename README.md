@@ -55,14 +55,6 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 <hr/>
 
-### 💻 Most Used Languages:
-  
-</div>
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 <h3 align="center">📊 Stats:</h3>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&locale=en" alt="abrarhussain-00" />
