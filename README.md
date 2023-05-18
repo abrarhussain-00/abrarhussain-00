@@ -57,7 +57,8 @@ Stay up to date with all my projects by continuously checking out my repos and i
 
 <h3 align="center">📊 Most Used Languages:</h3>
 
-[![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarhussain-00)](https://github.com/abrarhussain-00/github-readme-stats)
+<div align='center'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00)](https://github.com/abrarhussain-00/github-readme-stats)/>
+
 
 
 <h3 align="center">📊 Stats:</h3>
