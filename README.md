@@ -4,8 +4,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/abrarhussain-00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrarhussain-00" height="30" width="40" /></a>
 <a href="https://instagram.com/abrarhussain_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrarhussain_00" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abrarhussain_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abrarhussain_00" height="30" width="40" /></a>
-</p>
+<a href="https://www.leetcode.com/abrarhussain_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abrarhussain_00" height="30" width="40" /><a href='https://www.abrardev.com/' target='black'><img align='center' src='https://icons8.com/icon/111593/portfolio' alt='portfolio site' height='30' width='40'/></a></p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahussain887&label=Profile%20views&color=0e75b6&style=flat" alt="sahussain887" /> </p>
 
 
