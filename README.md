@@ -113,21 +113,13 @@
   </a>
 </div>
 
-- Languages: [Python, Javascript, Java]
-
-- Frontend Development: [HTML, CSS, ReactJS, TypeScript, Swift, Bootstrap, Material UI, AJAX, JPA]
-
-- Backend Development: [NodeJS, Spring Tool Suite, Spring Security, Spring Boot, Tomcat, Apache, Dependency Injection, ExpressJS, Flask, BCrypt, JSP, JSON, NPM]
-
-- Databases: [MySQL, MongoDB, SQLite, Atlas, OracleDB]
-
-- DevOps: [AWS, Bash]
-
-- Software: [Docker, Postman, MySQL Workbench, VSCODE, Spring Tool Suite]
-
-- Version Control [Git, GitHub, Gitlab, BitBucket]
-
-- Other: [Agile, Scrum, RESTful API, MVC]
+Technical Skills:
+My technical skills are:
+• Programming Languages: [Python, JavaScript, Java]
+• Frameworks/Libraries: [Flask • BCrypt • Node.js • React • React Native • Next js • Express.js • Mongoose • Bootstrap • Material UI] 
+• Databases: [MySQL • MongoDB • Mongoose • MongoDB Atlas • Firebase] 
+• Tools: [Git • BitBucket • GitHub • VS Code • Spring Tool Suites (STS) • AWS • Pipeline • Postman • MySQL Workbench]
+• Non-technical: [Requirements Engineering • Consulting • Pitching • Scrum Master • User Interviewing • Technical Writing • Proposal Drafting • Team/Sprint Planning]
 
 <hr/>
 
