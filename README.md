@@ -118,8 +118,11 @@ Technical Skills:
 • Programming Languages: [Python, JavaScript, Java]
 <br/>
 • Frameworks/Libraries: [Flask • BCrypt • Node.js • React • React Native • Next js • Express.js • Mongoose • Bootstrap • Material UI] 
+<br/>
 • Databases: [MySQL • MongoDB • Mongoose • MongoDB Atlas • Firebase] 
+<br/>
 • Tools: [Git • BitBucket • GitHub • VS Code • Spring Tool Suites (STS) • AWS • Pipeline • Postman • MySQL Workbench]
+<br/>
 • Non-technical: [Requirements Engineering • Consulting • Pitching • Scrum Master • User Interviewing • Technical Writing • Proposal Drafting • Team/Sprint Planning]
 
 <hr/>
