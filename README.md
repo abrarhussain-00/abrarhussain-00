@@ -114,7 +114,7 @@
 </div>
 
 Technical Skills:
-My technical skills are:
+<br/>
 • Programming Languages: [Python, JavaScript, Java]
 • Frameworks/Libraries: [Flask • BCrypt • Node.js • React • React Native • Next js • Express.js • Mongoose • Bootstrap • Material UI] 
 • Databases: [MySQL • MongoDB • Mongoose • MongoDB Atlas • Firebase] 
