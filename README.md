@@ -11,8 +11,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahussain887&label=Profile%20views&color=0e75b6&style=flat" alt="sahussain887" /> </p>
 
 
-<p align="center">Full stack developer passionate about sharing knowledge and making content! Constantly pushing for imperfect perfection 😌
-Stay up to date with all my projects by continuously checking out my repos and if you ever have any questions, don't hesitate reach out! 🤝
+<p align="center">I'm an experienced software engineer with years of experience across the full stack. My sweet spot? The frontend, where I make the most impact. I enjoy creating captivating user-centric experiences and connecting design with engineering.
+
 </p>
 <hr/>
 
