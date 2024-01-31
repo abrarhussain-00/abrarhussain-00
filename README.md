@@ -114,7 +114,6 @@
 </div>
 
 <h3>Technical Skills:</h3>
-<br/>
 • Programming Languages: [Python, JavaScript, Java]
 <br/>
 • Frameworks/Libraries: [Flask • BCrypt • Node.js • React • React Native • Next js • Express.js • Mongoose • Bootstrap • Material UI] 
