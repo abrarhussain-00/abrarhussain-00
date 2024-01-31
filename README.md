@@ -113,7 +113,7 @@
   </a>
 </div>
 
-Technical Skills:
+<h3>Technical Skills:</h3>
 <br/>
 • Programming Languages: [Python, JavaScript, Java]
 <br/>
