@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">💬 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abrar-hussain00/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrarhussain-00" height="30" width="40" />
@@ -37,9 +37,9 @@
 </p>
 
 <p align="center">
-  <b>Visit my portfolio at:</b> <a href="https://abrardev.com">abrardev.com</a> <br/>
-  <b>Reach me at:</b> <a href="mailto:abrarsoftwaredev@gmail.com">abrarsoftwaredev@gmail.com</a> <br/>
-  <b>Fun fact:</b> I never drank coffee ☕
+  <b>👨‍💻 Visit my portfolio at:</b> <a href="https://abrardev.com">abrardev.com</a> <br/>
+  <b>📫 Reach me at:</b> <a href="mailto:abrarsoftwaredev@gmail.com">abrarsoftwaredev@gmail.com</a> <br/>
+  <b>⚡ Fun fact:</b> I never drank coffee ☕
 </p>
 
 <h3 align="center">Technical Skills:</h3>
@@ -51,12 +51,12 @@
   <li>Non-technical: Requirements Engineering, Consulting, Pitching, Scrum Master, User Interviewing, Technical Writing, Proposal Drafting, Team/Sprint Planning</li>
 </ul>
 
-<h3 align="center">Most Used Languages:</h3>
+<h3 align="center">👨‍💻 Most Used Languages:</h3>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00&layout=compact" alt="Top Languages" />
 </p>
 
-<h3 align="center">GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&locale=en" alt="abrarhussain-00 GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhussain-00" alt="abrarhussain-00 GitHub Streaks" />
