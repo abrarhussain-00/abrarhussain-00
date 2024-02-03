@@ -18,7 +18,7 @@
   I'm an experienced software engineer with years of experience across the full stack. My sweet spot? The frontend, where I make the most impact. I enjoy creating captivating user-centric experiences and connecting design with engineering.
 </p>
 
-<hr style="margin-bottom: 10px;">
+<hr style="margin-bottom: 0px;">
 
 <p align="left">
   <a href="https://twitter.com/" target="blank">
