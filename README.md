@@ -37,9 +37,9 @@
 </p> -->
 
 <p align="left">
-  <b>👨‍💻 Visit my portfolio at:</b> <a href="https://abrardev.com">abrardev.com</a> <br/>
-  <b>📫 Reach me at:</b> <a href="mailto:abrarsoftwaredev@gmail.com">abrarsoftwaredev@gmail.com</a> <br/>
-  <b>⚡ Fun fact:</b> I never drank coffee ☕
+  <li><b>👨‍💻 Visit my portfolio at:</b> <a href="https://abrardev.com">abrardev.com</a></li><br/>
+  <li><b>📫 Reach me at:</b> <a href="mailto:abrarsoftwaredev@gmail.com">abrarsoftwaredev@gmail.com</a></li><br/>
+  <li><b>⚡ Fun fact:</b> I never drank coffee ☕</li>
 </p>
 
 <h3 align="center">Technical Skills:</h3>
