@@ -53,11 +53,11 @@
 
 <h3 align="center">👨‍💻 Most Used Languages:</h3>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhussain-00&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&locale=en" alt="abrarhussain-00 GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhussain-00" alt="abrarhussain-00 GitHub Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&locale=en&theme=dark" alt="abrarhussain-00 GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhussain-00&theme=dark" alt="abrarhussain-00 GitHub Streaks" />
 </div>
