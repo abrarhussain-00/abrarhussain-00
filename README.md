@@ -23,14 +23,14 @@
 
 - 🌱 I’m currently learning **Stripe** -->
 
-- 👨‍💻 All of my projects are available at [abrardev.com](https://abrardev.com)
+- 👨‍💻 Visit my portfolio at: [abrardev.com](https://abrardev.com)
 
-- 📫 How to reach me **abrarsoftwaredev@gmail.com**
+- 📫 Reach me at: **abrarsoftwaredev@gmail.com** 
 
 - ⚡ Fun fact **I never drank coffee**
 
 
-
+<!-- -
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -112,6 +112,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40">
   </a>
 </div>
+-->
 
 <h3>Technical Skills:</h3>
 • Programming Languages: [Python, JavaScript, Java]
