@@ -36,7 +36,7 @@
   </a>
 </p> -->
 
-<p align="center">
+<p align="left">
   <b>👨‍💻 Visit my portfolio at:</b> <a href="https://abrardev.com">abrardev.com</a> <br/>
   <b>📫 Reach me at:</b> <a href="mailto:abrarsoftwaredev@gmail.com">abrarsoftwaredev@gmail.com</a> <br/>
   <b>⚡ Fun fact:</b> I never drank coffee ☕
