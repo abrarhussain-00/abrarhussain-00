@@ -145,7 +145,7 @@
 --->
 <h3 align="center">📊 Stats:</h3>
 
-<div align="center">
+<div align="">
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
     <div style="flex: 1; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=abrarhussain-00&show_icons=true&locale=en" alt="abrarhussain-00 GitHub Stats" />
