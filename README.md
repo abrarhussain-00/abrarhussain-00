@@ -42,7 +42,7 @@
   <li><b>⚡ Fun fact:</b> I never drank coffee ☕</li>
 </p>
 
-<h3 align="center">Technical Skills:</h3>
+<h3 align="center">💻 Technical Skills:</h3>
 <ul>
   <li>Programming Languages: Python, JavaScript, Java</li>
   <li>Frameworks/Libraries: Flask, BCrypt, Node.js, React, React Native, Next.js, Express.js, Mongoose, Bootstrap, Material UI</li>
